@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h3>Welcome to furgal sintific by vignesh</h3>
+      <h3>Welcome to furgal sintific by vignesh and by anil</h3>
     </div>
   )
 }
