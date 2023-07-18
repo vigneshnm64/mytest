@@ -7,6 +7,7 @@ const App = () => {
       <h2 style={{color:'red'}}>we are free to express our self to the world </h2>
       <h2 style={{color:'blue'}}>we are free to express our self to the world </h2>
       <h2 style={{color:'green'}} >we are free to express our self to the world </h2>
+      <h2 style={{color:'green'}} >we are free to express our self to the world </h2>
       <h2>we are free to express our self to the world </h2>
     </div>
   )
